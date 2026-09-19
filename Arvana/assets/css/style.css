@@ -563,7 +563,7 @@
             }
          }
 
-         @media (min-width: 991px) {
+         @media (min-width: 992px) {
             .w-10{
                 width: 20% !important;
             }
